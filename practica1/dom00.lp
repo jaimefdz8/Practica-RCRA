@@ -1,0 +1,10 @@
+n(2).
+m(1).
+cell(0,0,a).
+cell(0,1,b).
+cell(1,0,a).
+cell(1,1,a).
+colholes(0,1).
+colholes(1,1).
+rowholes(0,2).
+rowholes(1,0).
